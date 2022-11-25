@@ -1,0 +1,15 @@
+
+.fondoCabecera 
+{
+    background-image: url('../multimedia/fondo1.jpg');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-bottom: 0px;
+}
+
+.card img
+{
+display: flex;
+
+}
